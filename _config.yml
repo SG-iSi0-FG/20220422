@@ -2,3 +2,5 @@ theme: jekyll-theme-minimal
 title: iSi0のホームページ
 description: 自己紹介（？）です
 logo: /logo.png
+plugins:
+  - jekyll-sitemap
